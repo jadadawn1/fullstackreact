@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fullstack Product Store
 
 This is a fullstack web application using React and Supabase. It features:
@@ -33,3 +34,6 @@ This is a fullstack web application using React and Supabase. It features:
 - Profile page for users
 - Products list fetched from Supabase
 
+=======
+# fullstackreact
+>>>>>>> d79e7cfa9574a0eb16f71f8f3300717620e8e9c3
